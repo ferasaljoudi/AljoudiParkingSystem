@@ -37,4 +37,4 @@ Hardware Requirements:
 Additional Resources:
 -
 - For an in-depth understanding and comprehensive details of the Aljoudi Parking System, please refer to the _<a href="ferasaljoudi/AljoudiParkingSystem/Documentation/ProjectReport.pdf" title="Aljoudi Parking System Report">Project Report</a>_.
-- To see system in action and understand its real-world functionality, watch the _<a href="https://www.youtube.com" title="Aljoudi Parking System">Youtube Video</a>_.
+- To see system in action and understand its real-world functionality, watch the _<a href="https://www.youtube.com/watch?v=ReGvdZkHqbI" title="Aljoudi Parking System">Youtube Video</a>_.
