@@ -1,7 +1,7 @@
-<svg fill="none" width="600" height="28.5" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" width="600" height="34.5" xmlns="http://www.w3.org/2000/svg">
     <style>
         * {
-        margin: 0;
+            margin: 0;
         }
         h1 {
             font-size: 1.6rem;
@@ -19,19 +19,20 @@
         }
         h1 span:nth-child(1) {
             color: #8B4513;
+            margin-top: 0px;
             margin-bottom: 1px;
         }
         h1 span:nth-child(1) em {
-            margin-top: 14px;
+            margin-top: 17.5px;
             line-height: 0.1rem;
         }
         h1 span:nth-child(2) {
             color: #8B3509;
-            margin-bottom: 1px;
+            margin-bottom: 0px;
         }
         h1 span:nth-child(2) em {
             margin-top: -10px;
-            margin-bottom: 7px;
+            margin-bottom: 12px;
             line-height: 1rem;
         }
     </style>
@@ -55,6 +56,6 @@
             </h1>
         </div>
     </foreignObject>
-    <rect x="0" y="25.5" width="100%" height="3" fill="url(#borderLine)" />
-    <rect x="0" y="0" width="100%" height="3" fill="url(#borderLine)" />
+    <rect x="0" y="30.5" width="100%" height="4" fill="url(#borderLine)" />
+    <rect x="0" y="0" width="100%" height="4" fill="url(#borderLine)" />
 </svg>
