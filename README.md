@@ -22,7 +22,7 @@ Aljoudi Parking System represents a significant step towards automating vehicle 
 <div align = "center">
 
   [![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=00FF00)](https://www.w3schools.com/c/)
-  [![STM32](https://img.shields.io/badge/-STM_32-150458?style=for-the-badge)](https://www.st.com/en/microcontrollers-microprocessors/stm32f1-series.html)
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32f1-series.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/stm.svg" alt="STM32"></a>
   [![Keil uVision](https://img.shields.io/badge/-Keil_uVision-0090D0?style=for-the-badge&logoColor=white)](https://www.keil.com/)
 
 </div>
