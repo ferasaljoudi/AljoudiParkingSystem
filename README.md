@@ -1,5 +1,5 @@
 <div style="width: 100%;">
-    <a href="#"><img src="SVGs/header.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/SVGsHeader/aljoudiParkingSystem.svg" alt="Aljoudi Parking System" style="width: 100%"></a>
 </div>
 <br>
 
@@ -7,7 +7,7 @@ This project was developed individually as part of ENEL351, a course within my e
 
 <br>
 <div style="width: 100%;">
-    <a href="#"><img src="SVGs/overview.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/overview.svg" alt="Overview" style="width: 100%"></a>
 </div>
 <br>
 
@@ -15,7 +15,7 @@ Aljoudi Parking System represents a significant step towards automating vehicle 
 
 <br>
 <div style="width: 100%;">
-    <a href="#"><img src="SVGs/technologiesUsed.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/technologiesUsed.svg" alt="Technologies Used" style="width: 100%"></a>
 </div>
 <br>
 
@@ -29,7 +29,7 @@ Aljoudi Parking System represents a significant step towards automating vehicle 
 
 <br>
 <div style="width: 100%;">
-    <a href="#"><img src="SVGs/features.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/features.svg" alt="Features" style="width: 100%"></a>
 </div>
 <br>
 
@@ -43,9 +43,10 @@ Aljoudi Parking System represents a significant step towards automating vehicle 
 
 <br>
 <div style="width: 100%;">
-    <a href="#"><img src="SVGs/softwareRequirements.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/softwareRequirements.svg" alt="Software Requirements" style="width: 100%"></a>
 </div>
 <br>
+
 
 The software environment and programming language used for the system are as follows:
 
@@ -54,7 +55,7 @@ The software environment and programming language used for the system are as fol
 
 <br>
 <div style="width: 100%;">
-    <a href="#"><img src="SVGs/hardwareRequirements.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/hardwareRequirements.svg" alt="Hardware Requirements" style="width: 100%"></a>
 </div>
 <br>
 
@@ -70,7 +71,7 @@ The software environment and programming language used for the system are as fol
 
 <br>
 <div style="width: 100%;">
-    <a href="#"><img src="SVGs/resources.svg" style="width: 100%"></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/resources.svg" alt="Resources" style="width: 100%"></a>
 </div>
 <br>
 
