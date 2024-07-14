@@ -25,6 +25,9 @@ Aljoudi Parking System represents a significant step towards automating vehicle 
     <td>
         <a href="https://www.w3schools.com/c/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Languages/Left/c.svg" alt="C"></a>
         <br>
+        <a href="https://www.keil.com/"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/ToolsAndPlatforms/Left/keil.svg" alt="Keil uVision"></a>
+        <br>
+        <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32f1-series.html"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/Badges/Hardware/Left/stm32.svg" alt="Stm32"></a>
     </td>
   </tr>
 </table>
@@ -49,7 +52,6 @@ Aljoudi Parking System represents a significant step towards automating vehicle 
     <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/softwareRequirements.svg" alt="Software Requirements" style="width: 100%"></a>
 </div>
 <br>
-
 
 The software environment and programming language used for the system are as follows:
 
