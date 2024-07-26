@@ -13,6 +13,10 @@ This project was developed individually as part of ENEL351, a course within my e
 
 Aljoudi Parking System represents a significant step towards automating vehicle management and parking solutions. The system uses the microcontroller (STM32F103RB) technology to simplify parking processes, enhance vehicle safety, and improve user experience in parking environments. The system is built on a practical, user-friendly platform that can accommodate up to four vehicles simultaneously. Incorporating different sensors and electronic components, the system aims to provide efficient, reliable, and secure parking services, focusing on areas with limited parking space.
 
+<div align="center">
+    <a href="#"><img src="DemoGif/ParkingSystem.gif" alt="Demo Gif"></a>
+</div>
+
 <br>
 <div style="width: 100%;">
     <a href="#"><img src="https://raw.githubusercontent.com/ferasaljoudi/AssetsRepository/main/BrownSVGs/technologiesUsed.svg" alt="Technologies Used" style="width: 100%"></a>
